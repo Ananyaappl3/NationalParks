@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalParks 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://ananyaappl3.github.io/NationalParks/NationalParks.xsd">
     <NationalPark Rating="4.9">
         <Name>Grand Canyon</Name>
         <Phone>928-638-7496</Phone>
@@ -122,6 +124,18 @@
             <City>Homestead</City>
             <State>FL</State>
             <Zip>33034</Zip>
+        </Address>
+    </NationalPark>
+
+    <NationalPark>
+        <Name>Joshua Tree National Park</Name>
+        <Phone>760-367-5500</Phone>
+        <Address NearestAirport="Palm Springs">
+            <Number>6533</Number>
+            <Street>Freedom Way</Street>
+            <City>Twentynine Palms</City>
+            <State>CA</State>
+            <Zip>92277</Zip>
         </Address>
     </NationalPark>
 </NationalParks>
