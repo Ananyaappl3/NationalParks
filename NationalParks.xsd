@@ -9,7 +9,7 @@
   <xsd:complexType name="NationalParkType">
     <xsd:sequence>
         <xsd:element name="Name" type="xsd:string"/>
-        <xsd:element name="Phone" type="PhoneType" maxOccurs="unbounded"/>
+        <xsd:element name="Phone" type="PhoneType" minOccurs="1" maxOccurs="unbounded"/>
         <xsd:element name="Address" type="AddressType"/>
     </xsd:sequence>
     <xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
