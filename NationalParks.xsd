@@ -2,7 +2,7 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     targetNamespace="https://ananyaappl3.github.io/NationalParks"
     xmlns="https://ananyaappl3.github.io/NationalParks"
-    attributeFormDefault="unqualified">
+    elementFormDefault="qualified">
   <xsd:element name="NationalParks" type="NationalParksType"/>
   <xsd:complexType name="NationalParksType">
     <xsd:sequence>
