@@ -4,13 +4,13 @@
         <Name>Grand Canyon</Name>
         <Phone>928-638-7496</Phone>
         <Phone>888-297-2757</Phone>
-        <Phone>866-499-2574`</Phone>
+        <Phone>866-499-2574</Phone>
         <Address NearestAirport="Flagstaff">
             <Number>8</Number>
             <Street>S Entrance Road</Street>
             <City>Grand Canyon</City>
             <State>AZ</State>
-            <ZipCode>86023</ZipCode>
+            <Zip>86023</Zip>
         </Address>
     </NationalPark>
 
@@ -22,7 +22,7 @@
             <Street>West Yellowstone</Street>
             <City>Yellowstone National Park</City>
             <State>MT</State>
-            <ZipCode>59758</ZipCode>
+            <Zip>59758</Zip>
         </Address>
     </NationalPark>
 
@@ -34,7 +34,7 @@
             <Street>US Hwy 36</Street>
             <City>Estes Park</City>
             <State>CO</State>
-            <ZipCode>80517</ZipCode>
+            <Zip>80517</Zip>
         </Address>
     </NationalPark> 
 
@@ -45,7 +45,7 @@
             <Street>Generals Hwy</Street>
             <City>Three Rivers</City>
             <State>CA</State>
-            <ZipCode>93271</ZipCode>
+            <Zip>93271</Zip>
         </Address>
     </NationalPark>
 
@@ -57,7 +57,7 @@
             <Street>Visitor Center Road</Street>
             <City>Bar Harbor</City>
             <State>ME</State>
-            <ZipCode>04609</ZipCode>
+            <Zip>04609</Zip>
     </NationalPark>
 
     <NationalPark Rating="4.5">
@@ -70,7 +70,7 @@
             <Street>SD-240</Street>
             <City>Interior</City>
             <State>MSD</State>
-            <ZipCode>57750</ZipCode>
+            <Zip>57750</Zip>
         </Address>
     </NationalPark>
 
@@ -82,7 +82,7 @@
             <Street>Village Dr</Street>
             <City>Yosemite Valley</City>
             <State>CA</State>
-            <ZipCode>95389</ZipCode>
+            <Zip>95389</Zip>
         </Address>
     </NationalPark>
 
@@ -94,7 +94,7 @@
             <Street>Grinnell Drive</Street>
             <City>West Glacier</City>
             <State>MT</State>
-            <ZipCode>59936</ZipCode>
+            <Zip>59936</Zip>
         </Address>
     </NationalPark>
 
@@ -107,7 +107,7 @@
             <Street>Carlsbad Cavern Hwy</Street>
             <City>Carlsbad</City>
             <State>NM</State>
-            <ZipCode>88220</ZipCode>
+            <Zip>88220</Zip>
         </Address>
     </NationalPark>
 
@@ -119,7 +119,7 @@
             <Street>State Hwy 9336</Street>
             <City>Homestead</City>
             <State>FL</State>
-            <ZipCode>33034</ZipCode>
+            <Zip>33034</Zip>
         </Address>
     </NationalPark>
 </NationalParks>
